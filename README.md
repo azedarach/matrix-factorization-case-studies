@@ -1,5 +1,6 @@
 Matrix factorization case studies
 =================================
+[![DOI](https://zenodo.org/badge/249302824.svg)](https://zenodo.org/badge/latestdoi/249302824)
 
 Contains code and notebooks for experiments applying
 different matrix factorizations to climate data.
