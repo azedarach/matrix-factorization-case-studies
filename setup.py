@@ -10,7 +10,7 @@ setup(
     author_email='Dylan.Harries@csiro.au',
     description='Code for convex coding dimension reduction experiments',
     long_description='',
-    install_requires=['numba', 'numpy', 'pytest', 'scikit-learn', 'scipy'],
+    install_requires=['joblib', 'numba', 'numpy', 'pytest', 'scikit-learn', 'scipy'],
     setup_requires=['pytest-runner', 'pytest-pylint'],
     tests_require=['pytest', 'pytest-cov', 'pylint'],
     packages=find_packages('src'),
