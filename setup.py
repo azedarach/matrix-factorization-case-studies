@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='convex_dim_red',
-    version='0.0.1',
+    version='0.1.0',
     author='Dylan Harries',
     author_email='Dylan.Harries@csiro.au',
     description='Code for convex coding dimension reduction experiments',
